@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T01:50:39.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.5" etag="xK5oElnXV-iuRmJ-FFHL" type="github"><diagram id="SRMhtJsLAMTsoQX67HHe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-12T01:51:49.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="w49nusmWk64-439Pga8o" version="14.8.5" type="github">
+  <diagram id="SRMhtJsLAMTsoQX67HHe" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1BvtAX707GKYIg_XKgvW-1" value="Plusvalías y alcabalas" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="600" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-2" value="Ventanilla&amp;nbsp;" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-1">
+          <mxGeometry x="20" width="580" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-2">
+          <mxGeometry x="110" y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-2" source="1BvtAX707GKYIg_XKgvW-5" target="1BvtAX707GKYIg_XKgvW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-5" value="1. Registro de información del trámite de plusvalía o alcabala." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-2">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-6" value="2. Sorteo del inspector al ser asignado al tramite de plusvalia o alcabala." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-2">
+          <mxGeometry x="80" y="180" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-2" source="1BvtAX707GKYIg_XKgvW-8" target="1BvtAX707GKYIg_XKgvW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-8" value="8. Entregar el trámite y finalizar el proceso." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-2">
+          <mxGeometry x="420" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-2">
+          <mxGeometry x="470" y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-10" value="Usuario liquidador" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-1">
+          <mxGeometry x="20" y="310" width="580" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-10" source="1BvtAX707GKYIg_XKgvW-12" target="1BvtAX707GKYIg_XKgvW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-12" value="3. Despacho de la plusvalía o alcabala." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-10">
+          <mxGeometry x="80" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-13" value="4. Cálculo de tasas y emisión de título temporal de la plusvalía o alcabala." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-10">
+          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-14" value="" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;size=15;html=1;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-10">
+          <mxGeometry x="250" y="150" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-10" source="1BvtAX707GKYIg_XKgvW-13" target="1BvtAX707GKYIg_XKgvW-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="180" as="sourcePoint" />
+            <mxPoint x="310" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-16" value="Tesoreria" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-1">
+          <mxGeometry x="20" y="610" width="580" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-16" source="1BvtAX707GKYIg_XKgvW-18" target="1BvtAX707GKYIg_XKgvW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-18" value="6. Generar un título válido." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-16">
+          <mxGeometry x="210" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-19" value="7. Cobro del título." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-16">
+          <mxGeometry x="390" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-20" value="Contribuyente&amp;nbsp;" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-1">
+          <mxGeometry x="20" y="720" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-21" value="5. Solicita el pago del titulo." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1BvtAX707GKYIg_XKgvW-20">
+          <mxGeometry x="60" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-1" source="1BvtAX707GKYIg_XKgvW-6" target="1BvtAX707GKYIg_XKgvW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-1" source="1BvtAX707GKYIg_XKgvW-13" target="1BvtAX707GKYIg_XKgvW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-1" source="1BvtAX707GKYIg_XKgvW-21" target="1BvtAX707GKYIg_XKgvW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1BvtAX707GKYIg_XKgvW-1" source="1BvtAX707GKYIg_XKgvW-19" target="1BvtAX707GKYIg_XKgvW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1BvtAX707GKYIg_XKgvW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1BvtAX707GKYIg_XKgvW-27" value="Titulo temporal emitido" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="580" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
